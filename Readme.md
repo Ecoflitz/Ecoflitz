@@ -28,16 +28,58 @@ At EcoFlitz, we are driven by the mission to help businesses succeed through tec
 
 ---
 
-## 🛠️ Technologies We Use
+## 🛠️ Tech Stack
 
-Our team is skilled in a wide array of modern technologies to ensure we deliver the best solutions for your needs:
+At EcoFlitz, we specialize in delivering cutting-edge software solutions using modern technologies. Here's an overview of the technologies we work with:
 
-- **Frontend**: React, Angular, Vue.js, HTML5, CSS3
-- **Backend**: Node.js, Python, Ruby on Rails
-- **Mobile**: React Native, Flutter, Swift, Kotlin
-- **E-commerce**: Shopify, WooCommerce, Magento
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Google Cloud, Azure
+### 🌍 **Languages**:
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- C#
+
+### ⚙️ **Frameworks & Libraries**:
+- **Frontend**: React.js, Angular, Vue.js, Next.js
+- **Backend**: Node.js, Django, Flask, Laravel, ASP.NET Core
+
+### 📱 **Mobile Development**:
+- React Native
+- Flutter
+- Swift
+- Kotlin
+
+### ☁️ **Cloud Platforms**:
+- AWS
+- Google Cloud
+- Azure
+- DigitalOcean
+
+### 🔧 **DevOps & CI/CD**:
+- Docker
+- Kubernetes
+- GitHub Actions
+- GitLab CI
+
+### 🗄️ **Databases**:
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+- Firebase
+- MSSQL
+
+### 🔍 **Other Tools**:
+- Elasticsearch
+- GraphQL
+- REST APIs
+- Celery
+- Git
+
+### 📦 **CMS**:
+- WordPress
+- Magento 2
+- Webflow
 
 ---
 
