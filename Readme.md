@@ -95,7 +95,7 @@ At EcoFlitz, we specialize in delivering cutting-edge software solutions using m
 
 We believe in collaboration and making the process as smooth as possible. Here's how you can get started:
 
-- **Contact Us**: Reach out for a consultation to discuss your project's needs and goals.
+- **Contact Us**: Reach out for a consultation to discuss your project's needs and goals at [info@ecoflitz.co.uk](mailto:info@ecoflitz.co.uk).
 - **Explore Our Work**: Check out our portfolio to see how we've helped other businesses succeed.
 - **Partner with Us**: Ready to grow your business? Let’s work together to develop the perfect solution!
 
@@ -107,7 +107,7 @@ Stay up-to-date with the latest news and updates from EcoFlitz:
 
 - [Website](https://www.ecoflitz.co.uk)
 - [LinkedIn](https://www.linkedin.com/company/ecoflitz)
-- [Email](info@ecofitz.co.uk)
+- [Email](mailto:info@ecoflitz.co.uk)
 
 ---
 
